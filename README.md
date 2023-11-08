@@ -1,12 +1,10 @@
 # Problem-Statement-2
-Problem Statement: Vaibhav has just completed his first year of Job. He is really
-happy about it but at the same time he needs to pay taxes to government on what he
-has earned in his last one year. Vaibhav found that all of his friends were facing the
-same difficulty in calculating the tax.
-He felt the need of a program where he can enter all of his friend’s name along with
-their income one by one and the program will calculate the tax and print the liable
-taxes of all of his friends.
+Problem Statement: Vaibhav has just completed his first year of Job. He is really happy about it but at the same time he needs to pay taxes to government on what he has earned in his last one year.
+Vaibhav found that all of his friends were facing thesame difficulty in calculating the tax.He felt the need of a program where he can enter all of his friend’s name along with
+their income one by one and the program will calculate the tax and print the liabletaxes of all of his friends.
 Let’s help Vaibhav write the program for the same.
+
+
 Approach: Follow the steps and complete the assignment
 1. Within the static main() method, write the print statements to get the following output
 Tax Calculator App
