@@ -68,6 +68,7 @@ FINAL OUTPUT
 
 Tax Calculator App
 ----- WELCOME ------
+
 Enter total person count:
 3
 Enter name 1 :
@@ -76,14 +77,18 @@ Vaibhav
 Enter Vaibhav's Annual Income:
 
 478000
+
 Enter name 2 :
 
 Sudhakar
+
 Enter Sudhakar's Annual Income:
 91000
+
 Enter name 3 :
 
 Anapurna
+
 Enter Anapurna's Annual Income:
 
 300000
