@@ -65,26 +65,35 @@ Hints:
 person.
 • To draw dashed lines use hyphen in the print statement
 FINAL OUTPUT
+
 Tax Calculator App
 ----- WELCOME ------
 Enter total person count:
 3
 Enter name 1 :
+
 Vaibhav
 Enter Vaibhav's Annual Income:
+
 478000
 Enter name 2 :
+
 Sudhakar
 Enter Sudhakar's Annual Income:
 91000
 Enter name 3 :
+
 Anapurna
 Enter Anapurna's Annual Income:
+
 300000
+
 Names with liable taxes
 —————————————
 Vaibhav : Rs. 95600
+
 Sudhakar : Rs. 0
+
 Anapurna : Rs. 60000
-OPTIONAL
-Print Statementsv
+
+
