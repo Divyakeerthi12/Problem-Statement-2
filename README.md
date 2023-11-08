@@ -95,6 +95,7 @@ Enter Anapurna's Annual Income:
 
 Names with liable taxes
 —————————————
+
 Vaibhav : Rs. 95600
 
 Sudhakar : Rs. 0
